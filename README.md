@@ -14,7 +14,7 @@ Gosto de resolver problemas, aprender coisas novas e construir projetos que unem
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-carvalho-mais/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilheme-carvalho-mais" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/gui_.mais" target="_blank">
@@ -44,18 +44,18 @@ Gosto de resolver problemas, aprender coisas novas e construir projetos que unem
 
 ## GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guimais&show_icons=true&hide_title=true" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=SEU_USUARIO" />
+  <img height="165" src="https://streak-stats.demolab.com?user=guimais" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimais&layout=compact" />
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=guimais&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 
 ---
