@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Banner / headline simples -->
+<h1 align="left">Hi there 👋</h1>
 
-<!--
-**guimais/guimais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Guilherme C. Mais (👨‍💻 Estudante de Eng. da Computação & 🎧 DJ).  
+Gosto de resolver problemas, aprender coisas novas e construir projetos que unem base clássica e visão de futuro.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estudando: **C, Python, JavaScript, CSS, HTML5, Sistemas Digitais (binário e C2)**  
+- 🌱 Explorando: **Node.js** e **Docker**  
+- 🤝 Aberto a colaborar em ideias de negócio e projetos acadêmicos  
+- 💬 Pergunte-me sobre: estudo eficiente, gestao de projetos, automatizacao, lógica de programacao.
+- 📫 Como falar comigo: **guicarvalhomais@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-carvalho-mais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/gui_.mais" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@guimais" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:guicarvalhomais@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Technical Skills
+
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=SEU_USUARIO" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+</p>
+
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+
+---
