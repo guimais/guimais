@@ -4,8 +4,8 @@
 Sou Guilherme C. Mais (👨‍💻 Estudante de Eng. da Computação & 🎧 DJ).  
 Gosto de resolver problemas, aprender coisas novas e construir projetos que unem base clássica e visão de futuro.
 
-- 🔭 Atualmente estudando: **C, Python, JavaScript, CSS, HTML5, Sistemas Digitais (binário e C2)**  
-- 🌱 Explorando: **Node.js** e **Docker**  
+- 🔭 Atualmente estudando: **JavaScript, CSS, HTML5, ReactJs, Tailwind, Sistemas Digitais**  
+- 🌱 Explorando: **ReactJs** e **Tailwind**  
 - 🤝 Aberto a colaborar em ideias de negócio e projetos acadêmicos  
 - 💬 Pergunte-me sobre: estudo eficiente, gestao de projetos, automatizacao, lógica de programacao.
 - 📫 Como falar comigo: **guicarvalhomais@gmail.com**
