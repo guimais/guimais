@@ -12,9 +12,9 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guimais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guimais)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
 
 </div>
 
@@ -42,9 +42,7 @@ const guimais = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### 🔩 Low-Level & Hardware
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +50,6 @@ const guimais = {
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=xilinx&logoColor=white)
 
 #### 🔐 Cybersecurity (Learning)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -81,9 +78,9 @@ const guimais = {
 ```
 Frontend (Strong)        ██████████████████░░  90%
 React / Next.js          ████████████████░░░░  80%
-TypeScript               ███████████████░░░░░  75%
-C / Low-Level            ████████████░░░░░░░░  60%
-Cybersecurity            ██████░░░░░░░░░░░░░░  30%  ← actively growing 🔐
+C / Low-Level            ███████████████░░░░░  75%
+Cybersecurity            ████████████░░░░░░░░  60%
+TypeScrip                ██████░░░░░░░░░░░░░░  30%  ← actively growing 🔐
 ```
 
 ---
