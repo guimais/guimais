@@ -73,29 +73,6 @@ const guimais = {
 
 ---
 
-## 🗺️ Current Roadmap
-
-```
-Frontend (Strong)        ██████████████████░░  90%
-React / Next.js          ████████████████░░░░  80%
-C / Low-Level            ███████████████░░░░░  75%
-Cybersecurity            ████████████░░░░░░░░  60%
-TypeScrip                ██████░░░░░░░░░░░░░░  30%  ← actively growing 🔐
-```
-
----
-
-## 🔐 Cybersecurity Path
-
-> Transitioning from frontend to security — bridging web knowledge with offensive/defensive skills.
-
-- 🕵️ Learning **penetration testing** and **ethical hacking**
-- 🔬 Exploring **reverse engineering** with C & Assembly background
-- 🌐 Studying **web application security** (XSS, CSRF, SQL Injection)
-- 🧩 Understanding hardware-level security with VHDL experience
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
