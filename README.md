@@ -31,7 +31,7 @@ const guimais = {
 };
 ```
 
-Estudante de Engenharia da Computação construindo projetos web do zero — sem frameworks, com código modular e versionamento — enquanto direciono minha formação para **Cibersegurança**. Gosto tanto de layout responsivo quanto de entender o que acontece no nível do registrador.
+Estudante de Engenharia da Computação construindo projetos web do zero, sem frameworks, com código modular e versionamento, enquanto direciono minha formação para **Cibersegurança**. Gosto tanto de layout responsivo quanto de entender o que acontece no nível do registrador.
 
 ---
 
@@ -91,9 +91,9 @@ Painel para controle de leads de uma empresa júnior de consultoria, com relató
 
 ## 🎯 Liderança & Comunidade
 
-**Liga de TI e Empreendedorismo — PUC-Campinas** · *Vice-Diretor de Eventos* · `2026 – Presente`
+**Liga de TI e Empreendedorismo @ PUC-Campinas** · *Vice-Diretor de Eventos* · `2026 – Presente`
 
-- 🏆 Coordenei um **hackathon em parceria com empresas, reunindo 24 participantes** — da definição do formato à logística e condução do evento
+- 🏆 Coordenei um **hackathon em parceria com empresas, reunindo 24 participantes**, da definição do formato à logística e condução do evento
 - 🎤 Organizo palestras e workshops de tecnologia para a comunidade universitária, do contato com palestrantes até a execução
 - 🤝 Atuo na diretoria de uma entidade estudantil sem fins lucrativos voltada ao aprofundamento prático em TI
 
