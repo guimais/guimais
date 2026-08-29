@@ -1,20 +1,17 @@
-[README.md](https://github.com/user-attachments/files/26061428/README.md)
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Mais&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Carvalho%20Mais&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20PUC-Campinas%20%7C%20Frontend%20%E2%86%92%20Cybersecurity&descAlignY=57&descColor=8b949e" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;React+%26+Next.js+Builder+%E2%9A%A1;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guimais)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
+![Location](https://img.shields.io/badge/Campinas,%20SP-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
 
 </div>
 
@@ -24,13 +21,17 @@
 
 ```typescript
 const guimais = {
-  role:     "Frontend Developer → Cybersecurity",
-  location: "Brasil 🇧🇷",
-  focus:    ["Web Development", "Security Research", "Low-Level Programming"],
-  learning: ["Penetration Testing", "Reverse Engineering", "Network Security"],
-  mindset:  "Build secure things. Break things to understand them.",
+  role:      "Frontend Developer → Cybersecurity",
+  education: "B.Sc. Computer Engineering @ PUC-Campinas",
+  location:  "Campinas, Brasil 🇧🇷",
+  focus:     ["Web Development", "Security Research", "Low-Level Programming"],
+  learning:  ["Penetration Testing", "Reverse Engineering", "Network Security"],
+  languages: ["Português (nativo)", "Español (avanzado)", "English (intermediate)"],
+  mindset:   "Build secure things. Break things to understand them.",
 };
 ```
+
+Estudante de Engenharia da Computação construindo projetos web do zero — sem frameworks, com código modular e versionamento — enquanto direciono minha formação para **Cibersegurança**. Gosto tanto de layout responsivo quanto de entender o que acontece no nível do registrador.
 
 ---
 
@@ -44,15 +45,67 @@ const guimais = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🔩 Low-Level & Hardware
+#### 🔩 Low-Level, Hardware & OOP
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=xilinx&logoColor=white)
 
 #### 🔐 Cybersecurity (Learning)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🗺️ [MapsLink](https://github.com/guimais) · Plataforma web de empregabilidade local
+> `HTML` `CSS` `JavaScript` `Geolocalização` `GitHub Pages`
+
+Aplicação de mapa interativo que conecta candidatos, estudantes e pequenas e médias empresas por geolocalização, com filtros dinâmicos e visualização regional de oportunidades.
+
+- 👥 Desenvolvido **em equipe ao longo de 6 meses**, com organização modular do código e layout responsivo
+- 🧪 **Validado com usuários reais** e publicado em produção no GitHub Pages
+- 🎓 Projeto acadêmico de caráter extensionista — JavaScript puro, sem frameworks
+
+<br/>
+
+### 📈 [Painel de Leads · EJ](https://github.com/guimais) · Sistematização de área comercial
+> `HTML` `CSS` `JavaScript` `Dashboard`
+
+Painel para controle de leads de uma empresa júnior de consultoria, com relatório de faturamento anual e acompanhamento de desempenho dos membros da área.
+
+- ⚙️ Front-end responsivo em JavaScript puro, sem frameworks
+- 🔁 Versionamento e colaboração via Git/GitHub
+
+---
+
+## 🎯 Liderança & Comunidade
+
+**Liga de TI e Empreendedorismo — PUC-Campinas** · *Vice-Diretor de Eventos* · `2026 – Presente`
+
+- 🏆 Coordenei um **hackathon em parceria com empresas, reunindo 24 participantes** — da definição do formato à logística e condução do evento
+- 🎤 Organizo palestras e workshops de tecnologia para a comunidade universitária, do contato com palestrantes até a execução
+- 🤝 Atuo na diretoria de uma entidade estudantil sem fins lucrativos voltada ao aprofundamento prático em TI
+
+---
+
+## 📜 Certificações
+
+| Certificado | Instituição | Ano |
+|---|---|:---:|
+| 🤖 IA Generativa | IBM | 2025 |
+| 🧠 Imersão Dev — Agentes de IA | Alura + Google Gemini | 2025 |
+| 🎨 CSS e HTML5 em Desenvolvimento Web | Udemy | 2025 |
 
 ---
 
@@ -74,6 +127,13 @@ const guimais = {
 ---
 
 <div align="center">
+
+### 💬 Vamos conversar
+
+Aberto a estágios e projetos em **desenvolvimento web** e **segurança da informação**.
+
+[![Email](https://img.shields.io/badge/guicarvalhomais@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Guilherme%20Carvalho%20Mais-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 
