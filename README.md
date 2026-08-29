@@ -68,7 +68,7 @@ Estudante de Engenharia da Computação construindo projetos web do zero — sem
 
 ## 🚀 Projetos em destaque
 
-### 🗺️ [MapsLink](https://github.com/guimais) · Plataforma web de empregabilidade local
+### 🗺️ [MapsLink](https://github.com/guimais/mapslink) · Plataforma web de empregabilidade local
 > `HTML` `CSS` `JavaScript` `Geolocalização` `GitHub Pages`
 
 Aplicação de mapa interativo que conecta candidatos, estudantes e pequenas e médias empresas por geolocalização, com filtros dinâmicos e visualização regional de oportunidades.
@@ -79,7 +79,7 @@ Aplicação de mapa interativo que conecta candidatos, estudantes e pequenas e m
 
 <br/>
 
-### 📈 [Painel de Leads · EJ](https://github.com/guimais) · Sistematização de área comercial
+### 📈 [Painel de Leads · EJ](https://github.com/guimais/painel-comercial) · Sistematização de área comercial
 > `HTML` `CSS` `JavaScript` `Dashboard`
 
 Painel para controle de leads de uma empresa júnior de consultoria, com relatório de faturamento anual e acompanhamento de desempenho dos membros da área.
@@ -96,16 +96,6 @@ Painel para controle de leads de uma empresa júnior de consultoria, com relató
 - 🏆 Coordenei um **hackathon em parceria com empresas, reunindo 24 participantes** — da definição do formato à logística e condução do evento
 - 🎤 Organizo palestras e workshops de tecnologia para a comunidade universitária, do contato com palestrantes até a execução
 - 🤝 Atuo na diretoria de uma entidade estudantil sem fins lucrativos voltada ao aprofundamento prático em TI
-
----
-
-## 📜 Certificações
-
-| Certificado | Instituição | Ano |
-|---|---|:---:|
-| 🤖 IA Generativa | IBM | 2025 |
-| 🧠 Imersão Dev — Agentes de IA | Alura + Google Gemini | 2025 |
-| 🎨 CSS e HTML5 em Desenvolvimento Web | Udemy | 2025 |
 
 ---
 
