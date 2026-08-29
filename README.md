@@ -75,7 +75,7 @@ Aplicação de mapa interativo que conecta candidatos, estudantes e pequenas e m
 
 - 👥 Desenvolvido **em equipe ao longo de 6 meses**, com organização modular do código e layout responsivo
 - 🧪 **Validado com usuários reais** e publicado em produção no GitHub Pages
-- 🎓 Projeto acadêmico de caráter extensionista — JavaScript puro, sem frameworks
+- 🎓 Projeto acadêmico de caráter extensionista, JavaScript puro, sem frameworks
 
 <br/>
 
