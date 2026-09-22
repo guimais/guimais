@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Carvalho%20Mais&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20PUC-Campinas&descAlignY=57&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2a0f14,100:3d0c11&height=200&section=header&text=Guilherme%20Carvalho%20Mais&fontSize=42&fontColor=f85149&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20PUC-Campinas&descAlignY=57&descColor=8b949e" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Building+things+from+scratch+%F0%9F%9B%A0%EF%B8%8F;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=f85149&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Building+things+from+scratch+%F0%9F%9B%A0%EF%B8%8F;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guimais)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
-![Location](https://img.shields.io/badge/Campinas,%20SP-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
+![Location](https://img.shields.io/badge/Campinas,%20SP-2a0f14?style=for-the-badge&logo=googlemaps&logoColor=f85149)
 
 </div>
 
@@ -98,14 +98,14 @@ Painel para controle de leads de uma empresa júnior de consultoria, com relató
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimais&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimais&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimais&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=8b949e&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimais&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=8b949e" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=guimais&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guimais&theme=dark&hide_border=true&background=0d1117&stroke=f85149&ring=f85149&fire=ff7b72&currStreakLabel=f85149)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,6 +120,6 @@ Aberto a estágios e projetos em tecnologia.
 [![Email](https://img.shields.io/badge/guicarvalhomais@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Guilherme%20Carvalho%20Mais-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0c11,50:2a0f14,100:0d1117&height=120&section=footer" />
 
 </div>
