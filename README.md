@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Carvalho%20Mais&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20PUC-Campinas%20%7C%20Frontend%20%E2%86%92%20Cybersecurity&descAlignY=57&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Carvalho%20Mais&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20PUC-Campinas&descAlignY=57&descColor=8b949e" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Building+things+from+scratch+%F0%9F%9B%A0%EF%B8%8F;Low-Level+Tinkerer+(C+%2F+Assembly+%2F+VHDL)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,17 +21,16 @@
 
 ```typescript
 const guimais = {
-  role:      "Frontend Developer → Cybersecurity",
+  role:      "Computer Engineering Student",
   education: "B.Sc. Computer Engineering @ PUC-Campinas",
   location:  "Campinas, Brasil 🇧🇷",
-  focus:     ["Web Development", "Security Research", "Low-Level Programming"],
-  learning:  ["Penetration Testing", "Reverse Engineering", "Network Security"],
+  interests: ["Software Development", "Low-Level Programming", "Digital Systems"],
   languages: ["Português (nativo)", "Español (avanzado)", "English (intermediate)"],
-  mindset:   "Build secure things. Break things to understand them.",
+  mindset:   "Build things. Break things to understand them.",
 };
 ```
 
-Estudante de Engenharia da Computação construindo projetos web do zero, sem frameworks, com código modular e versionamento, enquanto direciono minha formação para **Cibersegurança**. Gosto tanto de layout responsivo quanto de entender o que acontece no nível do registrador.
+Oi! Sou o Guilherme, estudante de Engenharia da Computação na PUC-Campinas. Gosto de construir projetos do zero, com código organizado e bem versionado, e de entender como as coisas funcionam por baixo dos panos, da interface até o nível do registrador. Fora do código, participo da Liga de TI e Empreendedorismo da universidade, organizando eventos e aproximando estudantes do mercado.
 
 ---
 
@@ -39,7 +38,7 @@ Estudante de Engenharia da Computação construindo projetos web do zero, sem fr
 
 <div align="center">
 
-#### 🌐 Frontend & Web
+#### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,12 +50,10 @@ Estudante de Engenharia da Computação construindo projetos web do zero, sem fr
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=xilinx&logoColor=white)
 
-#### 🔐 Cybersecurity (Learning)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 #### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -84,7 +81,7 @@ Aplicação de mapa interativo que conecta candidatos, estudantes e pequenas e m
 
 Painel para controle de leads de uma empresa júnior de consultoria, com relatório de faturamento anual e acompanhamento de desempenho dos membros da área.
 
-- ⚙️ Front-end responsivo em JavaScript puro, sem frameworks
+- ⚙️ Desenvolvido em JavaScript puro, sem frameworks
 - 🔁 Versionamento e colaboração via Git/GitHub
 
 ---
@@ -120,7 +117,7 @@ Painel para controle de leads de uma empresa júnior de consultoria, com relató
 
 ### 💬 Vamos conversar
 
-Aberto a estágios e projetos em **desenvolvimento web** e **segurança da informação**.
+Aberto a estágios e projetos em tecnologia.
 
 [![Email](https://img.shields.io/badge/guicarvalhomais@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guicarvalhomais@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Guilherme%20Carvalho%20Mais-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilheme-carvalho-mais/)
